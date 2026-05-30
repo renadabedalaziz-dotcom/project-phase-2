@@ -1,0 +1,59 @@
+
+#orange {
+   color: rgb(232, 145, 15);
+   margin-left: 90px;
+   font-family: 'Times New Roman';
+   font-weight: bold;
+}
+
+#green {
+   color: rgb(3, 185, 3);
+   margin-left: 90px;
+   font-family: 'Times New Roman';
+   font-weight: bold;
+}
+
+#blue {
+   color: blue;
+   margin-left: 90px;
+   font-family: 'Times New Roman';
+   font-weight: bold;
+}
+p,h1,h2,h3{
+  font-family: 'Times New Roman';
+}
+img{
+   width:100%;
+   height:250px;
+   object-fit:cover;
+   border-radius:6px;
+   
+}
+
+.c{
+   background-color: rgb(234, 239, 244);
+}
+.zoom_img:hover{
+    width:310px;
+    height:210px;
+    opacity: 0.9;
+   }
+
+button{
+background-color: rgb(177, 189, 194);
+width:10%;
+padding: 10px;
+border:none;
+border-radius:10px;
+}
+button:hover{
+   opacity: 0.8;
+}
+.carousel-item img:hover{
+ transform: none;
+}
+img:hover{
+width:100%;
+height:260px;
+opacity: 0.9;
+   }
