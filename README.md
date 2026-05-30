@@ -26,6 +26,5 @@ bash
 npm start
 
 
-##  Screenshots of the UI
-[سنضيف صور واجهات التطبيق هنا لاحقاً]
+##  Screenshots of the UI]
    
