@@ -26,5 +26,5 @@ bash
 npm start
 
 
-##  Screenshots of the UI]
+##  Screenshots of the UI
    
